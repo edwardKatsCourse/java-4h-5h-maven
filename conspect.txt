@@ -1,0 +1,30 @@
+10 people
+
+6 intellij
+3 eclipse
+1 netbeans
+----------
+maven -> JDK
+
+mvn install
+
+pom.xml
+
+Gradle vs Maven
+
+
+.java -> .class		->	
+		 .class		-> 		single JAR
+		 .class		->
+		 .class		->
+
+@JsonInclude(Include.NON_NULL)
+@JsonProperty
+@JsonIgnore
+@JsonCreator
+@JsonValue
+@JsonFormat			yyyy-MM-dd (2019-10-31)
+@JsonIgnoreProperties(ignoreUnknown = true)
+
+JSON  - 5 fields
+class - 2 fields
